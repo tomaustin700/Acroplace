@@ -1,11 +1,11 @@
 {
-	"manifest_version": 2,
+	"manifest_version": 0.1,
 
 	"name": "Acroplace",
     "short_name": "Acroplace",
 	"description": "Replaces acronyms with their real words",
 	"author": "Tom Austin, Eric Bailey",
-	"version": "2.0",
+	"version": "0.1",
 
 	"icons": {
 		"16": "icon16.png",
