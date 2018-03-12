@@ -22,11 +22,6 @@ function handleText(textNode) {
 function replaceText(v)
 {
    
-    //v = v.replace(
-    //    /\b(?:precarious generation)|(?:generation precarious)\b/g,
-    //    "gargouille"
-    //);
-
     v = v.replace(/\bimo\b/ig, 'in my opinion');
     v = v.replace(/\bimho\b/ig, 'in my humble opinion');
     v = v.replace(/\b2moro\b/ig, 'tomorrow');
