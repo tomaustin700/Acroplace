@@ -46,15 +46,17 @@ function replaceText(v)
     v = v.replace(/\bnimby\b/ig, 'not in my back yard');
     v = v.replace(/\bfomo\b/ig, 'fear of missing out');
     v = v.replace(/\bomg\b/ig, 'oh my god');
-    v = v.replace(/\bROTFLMAO\b/ig, 'Rolling On The Floor Laughing My Ass Off');
+    v = v.replace(/\brotflmao\b/ig, 'rolling on the floor laughing my ass off');
     v = v.replace(/\bstby\b/ig, 'sucks to be you');
     v = v.replace(/\baoe\b/ig, 'area of effect');
     v = v.replace(/\brtm\b/ig, 'read the manual');
     v = v.replace(/\brtfm\b/ig, 'read the fucking manual');
     v = v.replace(/\bwtf\b/ig, 'what the fuck');
     v = v.replace(/\bafaik\b/ig, 'as far as I know');
-    v = v.replace(/\bkys\b/ig, 'kill yourself');
     v = v.replace(/\bdyor\b/ig, 'do your own research');
+    v = v.replace(/\bgtfo\b/ig, 'get the fuck out');
+    v = v.replace(/\biirc\b/ig, 'if I remember correctly');
+    v = v.replace(/\blmao\b/ig, 'lauging my ass off');
 
     return v;
 }

@@ -4,8 +4,8 @@
 	"name": "Acroplace",
     "short_name": "Acroplace",
 	"description": "Replaces acronyms with their real words",
-	"author": "Tom Austin, Eric Bailey",
-	"version": "0.11",
+	"author": "Tom Austin",
+	"version": "0.12",
 
 	"icons": {
 		"16": "icon16.png",
