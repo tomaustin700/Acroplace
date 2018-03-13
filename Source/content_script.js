@@ -52,6 +52,7 @@ function replaceText(v)
     v = v.replace(/\bgtfo\b/ig, 'get the fuck out');
     v = v.replace(/\biirc\b/ig, 'if I remember correctly');
     v = v.replace(/\blmao\b/ig, 'lauging my ass off');
+    v = v.replace(/\bdae\b/ig, 'does anyone else');
 
     return v;
 }
