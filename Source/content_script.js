@@ -53,6 +53,7 @@ function replaceText(v)
     v = v.replace(/\biirc\b/ig, 'if I remember correctly');
     v = v.replace(/\blmao\b/ig, 'lauging my ass off');
     v = v.replace(/\bdae\b/ig, 'does anyone else');
+    v = v.replace(/\bfwiw\b/ig, "for what it's worth");
 
     return v;
 }
