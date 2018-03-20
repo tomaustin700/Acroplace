@@ -54,7 +54,9 @@ function replaceText(v)
     v = v.replace(/\blmao\b/ig, 'lauging my ass off');
     v = v.replace(/\bdae\b/ig, 'does anyone else');
     v = v.replace(/\bfwiw\b/ig, "for what it's worth");
-
+    v = v.replace(/\bICYFTAPOFS\b/ig, "in case you forgot this after passing out from surprise");
+    v = v.replace(/\bftfy\b/ig, "fixed that for you");
+    
     return v;
 }
 
