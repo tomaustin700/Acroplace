@@ -56,6 +56,7 @@ function replaceText(v)
     v = v.replace(/\bfwiw\b/ig, "for what it's worth");
     v = v.replace(/\bICYFTAPOFS\b/ig, "in case you forgot this after passing out from surprise");
     v = v.replace(/\bftfy\b/ig, "fixed that for you");
+    v = v.replace(/\bomg\b/ig, "oh my god");
     
     return v;
 }
