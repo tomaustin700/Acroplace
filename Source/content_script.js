@@ -58,6 +58,7 @@ function replaceText(v)
     v = v.replace(/\bftfy\b/ig, "fixed that for you");
     v = v.replace(/\bomg\b/ig, "oh my god");
     v = v.replace(/\bfml\b/ig, "fuck my life");
+    v = v.replace(/\bnp\b/ig, "no problem");
     
     return v;
 }
