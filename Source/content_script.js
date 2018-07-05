@@ -60,6 +60,7 @@ function replaceText(v)
     v = v.replace(/\bfml\b/ig, "fuck my life");
     v = v.replace(/\bnp\b/ig, "no problem");
     v = v.replace(/\bsmh\b/ig, "shake my head");
+    v = v.replace(/\bianal\b/ig, "I am not a lawyer");
     
     return v;
 }
