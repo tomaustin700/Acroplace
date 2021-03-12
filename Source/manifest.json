@@ -5,7 +5,7 @@
     "short_name": "Acroplace",
 	"description": "Replaces acronyms with their real words",
 	"author": "Tom Austin",
-	"version": "0.15",
+	"version": "0.16",
 
 	"icons": {
 		"16": "icon16.png",
